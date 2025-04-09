@@ -5,6 +5,7 @@ namespace modul7_kelompok6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("====================================");
             DataMahasiswa103022300065.ReadJSON();
             Console.WriteLine("====================================");
 
