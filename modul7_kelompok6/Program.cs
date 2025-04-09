@@ -42,11 +42,17 @@ namespace modul7_kelompok6
     {
         static void Main(string[] args)
         {
+
+            DataMahasiswa103022300014.ReadJSON();
+            Console.WriteLine();
+            TeamMembers103022300014.ReadJSON();
+            GlossaryItem103022300014.ReadJSON();
+
             DataMahasiswa103022300072.ReadJSON();
             Console.WriteLine();
             TeamMembers103022300072.ReadJSON();
             Console.WriteLine();
-            GlossaryItem103022300072.ReadJSON();
+
         }
     }
 }
