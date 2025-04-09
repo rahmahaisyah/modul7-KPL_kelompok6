@@ -6,5 +6,27 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
+		<None Update="modul7_2_103022300065.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		
+	</ItemGroup>
 
+	<ItemGroup>
+		<None Update="modul7_1_103022300065.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="modul7_2_103022300065.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Page Include="modul7_1_103022300065.josn"/>
+	</ItemGroup>
+	<ItemGroup>
+		<Page Include="modul7_2_103022300065.josn"/>
+	</ItemGroup>
 </Project>
