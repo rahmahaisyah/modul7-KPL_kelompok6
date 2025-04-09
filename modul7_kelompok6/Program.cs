@@ -1,7 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Text.Json;
 
 namespace modul7_kelompok6
 {
@@ -46,7 +42,7 @@ namespace modul7_kelompok6
     {
         static void Main(string[] args)
         {
-            DataMahasiswa103022300153.ReadJSON();
+
         }
     }
 }
