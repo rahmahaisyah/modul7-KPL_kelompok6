@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            DataMahasiswa103022300071.ReadJSON();
         }
     }
 }
