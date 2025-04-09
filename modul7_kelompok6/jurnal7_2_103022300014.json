@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Rahmah",
+      "lastName": "Aisyah",
+      "gender": "female",
+      "age": 19,
+      "nim": "103022300014"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Fauzan",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300065"
+    },
+    {
+      "firstName": "Dewanta",
+      "lastName": "Rahma Satria",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300071"
+    },
+    {
+      "firstName": "Dhea Sri",
+      "lastName": "Noor Septianiz",
+      "gender": "female",
+      "age": 20,
+      "nim": "103022300072"
+    },
+    {
+      "firstName": "Dina",
+      "lastName": "Salsabilla",
+      "gender": "female",
+      "age": 19,
+      "nim": "103022300153"
+    }
+  ]
+}
