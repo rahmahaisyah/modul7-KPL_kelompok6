@@ -24,7 +24,7 @@ namespace modul7_kelompok6
         public string lastName { get; set; }
         public string gender { get; set; }
         public long age { get; set; }
-        public Address address { get; set; }
+        public Address address { get; set;}
         public List<Course> courses { get; set; }
     }
     class DataMahasiswa103022300014
